@@ -69,7 +69,7 @@ flutter build ios --release
 
 ## Screenshots
 ![ScreenShot](screenshot1.png)
-![ScreenShot](screenshot2.png)
+![ScreenShot](screenshot.png)
 
 # Technologies
 Flutter
